@@ -23,37 +23,35 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "uniquePARK-1",
+                    "lat": "43.52743555174418",
+                    "lon": "-5.657232126990014",
+                    "type": "parque de usos varios",
+                    "name": "Parque los pericones",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://i.pinimg.com/originals/f8/60/04/f8600440ea020941079352e86a3a2b94.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Este parque tiene multiples areas para hacer deporte al aire libre",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://www.mypacer.com/es/routes/211011/parque-de-los-pericones-caminar-y-correr-el-llano-gij%C3%B3n-espa%C3%B1a"
+                        
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "uniquePARK-1",
+                    "lat": "43.52334230468594",
+                    "lon": "-5.651642585832477",
+                    "type": "parque de calistenia",
+                    "name": "Parque el fluvial",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://i.pinimg.com/originals/f8/60/04/f8600440ea020941079352e86a3a2b94.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Este parque tiene multiples instalaciones para entrenar calistenia",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.mypacer.com/es/routes/211011/parque-de-los-pericones-caminar-y-correr-el-llano-gij%C3%B3n-espa%C3%B1a"
+                        
                     ]
                 }
             ]
