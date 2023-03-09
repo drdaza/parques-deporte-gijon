@@ -39,7 +39,7 @@
                     ]
                 },
                 {
-                    "id": "uniquePARK-1",
+                    "id": "uniquePARK-2",
                     "lat": "43.52334230468594",
                     "lon": "-5.651642585832477",
                     "type": "parque de calistenia",
@@ -48,9 +48,25 @@
                         "https://i.pinimg.com/originals/f8/60/04/f8600440ea020941079352e86a3a2b94.jpg"
                     ],
                     "description": "Este parque tiene multiples instalaciones para entrenar calistenia",
-                    "more": "More description, if you want",
+                    "more": "la imagen fue obtenida de el periodico el comercio de España",
                     "urls": [
-                        "https://www.mypacer.com/es/routes/211011/parque-de-los-pericones-caminar-y-correr-el-llano-gij%C3%B3n-espa%C3%B1a"
+                        "https://www.elcomercio.es/gijon/primer-circuito-calistenia-20210723000858-ntvo.html"
+                        
+                    ]
+                },
+                {
+                    "id": "uniquePARK-3",
+                    "lat": "43.530556724228305",
+                    "lon": "-5.6645780310017475",
+                    "type": "parque de usos varios",
+                    "name": "Parque la serena",
+                    "images": [
+                        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lne.es%2Fgijon%2F2016%2F04%2F1[…]e=images&cd=vfe&ved=0CBAQjRxqFwoTCPjLqp2hz_0CFQAAAAAdAAAAABAD"
+                    ],
+                    "description": "Este parque tiene multiples instalaciones hacer deportes varios",
+                    "more": "la imagen fue obtenida de el periodico la nueva españa",
+                    "urls": [
+                        "https://cope-cdnmed.agilecontent.com/resources/jpg/2/9/1627038310292.jpg"
                         
                     ]
                 }
