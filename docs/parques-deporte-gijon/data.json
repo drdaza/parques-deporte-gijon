@@ -43,7 +43,7 @@
                     "lat": "43.52334230468594",
                     "lon": "-5.651642585832477",
                     "type": "parque de calistenia",
-                    "name": "Parque el fluvial",
+                    "name": "Parque fluvial",
                     "images": [
                         "https://s1.ppllstatics.com/elcomercio/www/multimedia/202107/23/media/cortadas/66263468--624x468.JPG"
                     ],
@@ -65,6 +65,22 @@
                     ],
                     "description": "Este parque tiene multiples instalaciones hacer deportes varios",
                     "more": "la imagen fue obtenida de el periodico la nueva españa",
+                    "urls": [
+                        "https://cope-cdnmed.agilecontent.com/resources/jpg/2/9/1627038310292.jpg"
+                        
+                    ]
+                },
+                {
+                    "id": "uniquePARK-4",
+                    "lat": "43.52766868786801",
+                    "lon": "-5.681634850289531",
+                    "type": "parque de usos varios",
+                    "name": "Parque Monsacro",
+                    "images": [
+                        "https://s1.ppllstatics.com/elcomercio/www/pre2017/multimedia/gijon/prensa/noticias/200908/12/fotos/2128279.jpg"
+                    ],
+                    "description": "Este parque tiene multiples instalaciones hacer deportes varios",
+                    "more": "la imagen fue obtenida de el periodico el comercio españa",
                     "urls": [
                         "https://cope-cdnmed.agilecontent.com/resources/jpg/2/9/1627038310292.jpg"
                         
